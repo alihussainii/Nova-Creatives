@@ -1,0 +1,670 @@
+{
+  "business": {
+    "name": "Nova Creatives",
+    "email": "",
+    "phone": "+93 (0) 744 372 846",
+    "location": "Kabul, Afghanistan",
+    "hours": "",
+    "socials": [],
+    "formEndpoint": "",
+    "origin": "https://nova-creatives-studio.gardenfort.chatgpt.site"
+  },
+  "brand": {
+    "primaryBlue": "#273D8E",
+    "accentTurquoise": "#21CCC3",
+    "white": "#FFFFFF",
+    "deepInk": "#17233F",
+    "source": "User-shared Nova Creatives conversation and supplied Brand Guidelines",
+    "sourceUrl": "https://chatgpt.com/share/6ae714b7-052c-83e8-8281-c132abd5f314?ogimg=plain"
+  },
+  "team": [],
+  "testimonials": [],
+  "services": [
+    {
+      "slug": "web-design",
+      "en": "Website Design & Development",
+      "fa": "طراحی و توسعهٔ وب‌سایت",
+      "intro": [
+        "Build a website that explains your business clearly and helps visitors take the next step.",
+        "وب‌سایتی بسازید که کسب‌وکارتان را روشن معرفی کند و بازدیدکننده را به اقدام بعدی برساند."
+      ],
+      "problem": [
+        "For organisations whose website makes it difficult to find information or take the next step.",
+        "برای سازمان‌هایی که پیدا کردن معلومات یا برداشتن قدم بعدی در وب‌سایت‌شان دشوار است."
+      ],
+      "deliverables": [
+        [
+          "Website planning and content structure",
+          "Responsive UI/UX design",
+          "Website development and content management",
+          "Forms, integrations and launch testing"
+        ],
+        [
+          "برنامه‌ریزی وب‌سایت و ساختار محتوا",
+          "طراحی رابط و تجربهٔ کاربری سازگار با موبایل",
+          "توسعهٔ وب‌سایت و مدیریت محتوا",
+          "فورم‌ها، اتصال سرویس‌ها و آزمایش پیش از نشر"
+        ]
+      ],
+      "availability": "primary",
+      "relatedProjects": [
+        "saffron",
+        "flowdesk"
+      ]
+    },
+    {
+      "slug": "software-development",
+      "en": "Software & Web Applications",
+      "fa": "توسعهٔ نرم‌افزار و اپلیکیشن تحت وب",
+      "intro": [
+        "Turn a business workflow into a practical software product, from the first requirements to a tested release.",
+        "روند کاری کسب‌وکارتان را از نیازسنجی اولیه تا نسخهٔ آزمایش‌شده به یک محصول نرم‌افزاری کاربردی تبدیل کنید."
+      ],
+      "problem": [
+        "For teams working around disconnected tools, repetitive manual tasks or a digital product that needs a clearer development plan.",
+        "برای تیم‌هایی که با ابزارهای پراکنده، کارهای دستی تکراری یا محصول دیجیتالی بدون برنامهٔ روشن توسعه روبه‌رو هستند."
+      ],
+      "deliverables": [
+        [
+          "Requirements and workflow mapping",
+          "Custom web applications and internal tools",
+          "Business dashboards and data interfaces",
+          "API and third-party service integrations",
+          "Testing, deployment and handover documentation"
+        ],
+        [
+          "نیازسنجی و ترسیم روندهای کاری",
+          "اپلیکیشن تحت وب و ابزارهای داخلی اختصاصی",
+          "داشبوردهای کاری و رابط‌های مدیریت معلومات",
+          "اتصال API و سرویس‌های بیرونی",
+          "آزمایش، استقرار و مستندات تحویل"
+        ]
+      ],
+      "availability": "primary",
+      "relatedProjects": [
+        "flowdesk",
+        "saffron"
+      ]
+    },
+    {
+      "slug": "brand-identity",
+      "en": "Brand Strategy & Identity",
+      "fa": "استراتژی و هویت برند",
+      "intro": [
+        "Give your business a clear idea and a distinctive visual language.",
+        "برای کسب‌وکارتان یک دیدگاه روشن و زبان بصری متمایز بسازید."
+      ],
+      "problem": [
+        "For brands whose story, positioning and appearance no longer fit together.",
+        "برای برندهایی که پیام، جایگاه و ظاهرشان با هم هماهنگ نیست."
+      ],
+      "deliverables": [
+        [
+          "Brand discovery and positioning",
+          "Logo system and usage guide",
+          "Colour and typography systems",
+          "Brand guidelines and launch assets"
+        ],
+        [
+          "شناخت و جایگاه‌یابی برند",
+          "سیستم لوگو و راهنمای استفاده",
+          "سیستم رنگ و تایپوگرافی",
+          "رهنمودهای برند و طرح‌های معرفی"
+        ]
+      ],
+      "availability": "creative",
+      "relatedProjects": [
+        "orbit"
+      ]
+    },
+    {
+      "slug": "graphic-design",
+      "en": "Graphic & Print Design",
+      "fa": "طراحی گرافیک و چاپ",
+      "intro": [
+        "Make every piece of communication feel considered and connected.",
+        "هر بخش از ارتباطات بصری‌تان را سنجیده و هماهنگ بسازید."
+      ],
+      "problem": [
+        "For teams that need clear, consistent design across campaigns and printed materials.",
+        "برای تیم‌هایی که در کمپاین‌ها و مواد چاپی به طراحی روشن و هماهنگ نیاز دارند."
+      ],
+      "deliverables": [
+        [
+          "Campaign concepts",
+          "Posters and editorial layouts",
+          "Packaging concepts",
+          "Print-ready files and specifications"
+        ],
+        [
+          "ایده‌های کمپاین",
+          "پوستر و صفحه‌آرایی",
+          "طرح‌های بسته‌بندی",
+          "فایل‌های آمادهٔ چاپ و مشخصات آن"
+        ]
+      ],
+      "availability": "creative",
+      "relatedProjects": [
+        "form"
+      ]
+    },
+    {
+      "slug": "social-content",
+      "en": "Social Media & Content Creation",
+      "fa": "رسانه‌های اجتماعی و تولید محتوا",
+      "intro": [
+        "Build a recognisable presence through useful, well-made content.",
+        "با محتوای مفید و سنجیده، حضوری قابل‌شناخت بسازید."
+      ],
+      "problem": [
+        "For teams publishing inconsistently or without a clear visual and editorial direction.",
+        "برای تیم‌هایی که بدون نظم یا جهت روشن بصری و محتوایی نشر می‌کنند."
+      ],
+      "deliverables": [
+        [
+          "Content themes and calendar",
+          "Social design templates",
+          "Captions and short-form concepts",
+          "Publishing and review workflow"
+        ],
+        [
+          "موضوعات و تقویم محتوا",
+          "قالب‌های طراحی شبکه‌های اجتماعی",
+          "کپشن و ایده‌های محتوای کوتاه",
+          "روند بازبینی و نشر"
+        ]
+      ],
+      "availability": "confirm",
+      "relatedProjects": [
+        "daily"
+      ]
+    },
+    {
+      "slug": "digital-marketing",
+      "en": "Digital Marketing",
+      "fa": "بازاریابی دیجیتال",
+      "intro": [
+        "Connect the right message with a relevant audience and a measurable next step.",
+        "پیام مناسب را به مخاطب مرتبط و یک اقدام قابل‌سنجش پیوند دهید."
+      ],
+      "problem": [
+        "For businesses that need a focused campaign plan and a clearer way to learn from performance.",
+        "برای کسب‌وکارهایی که به برنامهٔ کمپاین مشخص و ارزیابی روشن‌تر نتایج نیاز دارند."
+      ],
+      "deliverables": [
+        [
+          "Audience and channel planning",
+          "Campaign creative direction",
+          "Landing-page recommendations",
+          "Measurement and reporting framework"
+        ],
+        [
+          "برنامه‌ریزی مخاطب و کانال",
+          "جهت‌دهی خلاق کمپاین",
+          "پیشنهادهای صفحهٔ فرود",
+          "چارچوب سنجش و گزارش‌دهی"
+        ]
+      ],
+      "availability": "confirm",
+      "relatedProjects": [
+        "daily"
+      ]
+    },
+    {
+      "slug": "photo-video",
+      "en": "Photography & Video Production",
+      "fa": "عکاسی و تولید ویدیو",
+      "intro": [
+        "Tell a visual story with purposeful images and carefully paced motion.",
+        "داستان‌تان را با تصویرهای هدفمند و حرکت سنجیده بیان کنید."
+      ],
+      "problem": [
+        "For brands that need a coherent set of images or a concise film for a specific audience.",
+        "برای برندهایی که به مجموعهٔ هماهنگ تصویر یا ویدیوی کوتاه برای مخاطب مشخص نیاز دارند."
+      ],
+      "deliverables": [
+        [
+          "Creative treatment and shot list",
+          "Product or brand photography",
+          "Short-form video and editing",
+          "Platform-ready exports"
+        ],
+        [
+          "طرح خلاق و فهرست نماها",
+          "عکاسی محصول یا برند",
+          "ویدیوی کوتاه و تدوین",
+          "خروجی آماده برای پلتفرم‌ها"
+        ]
+      ],
+      "availability": "confirm",
+      "relatedProjects": [
+        "still"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "saffron",
+      "title": "Saffron House",
+      "faTitle": "خانهٔ زعفران",
+      "category": "Web",
+      "faCategory": "وب",
+      "color": "#de7549",
+      "ink": "#38271e",
+      "tag": [
+        "A quieter kind of digital hospitality.",
+        "مهمان‌نوازی در فضایی آرام و دیجیتال."
+      ],
+      "brief": [
+        "Imagine a small guesthouse website where atmosphere and practical information share the same space.",
+        "تصور وب‌سایت یک مهمان‌خانهٔ کوچک که فضا و معلومات کاربردی در آن کنار هم باشند."
+      ],
+      "approach": [
+        "Warm editorial layouts, generous spacing and a simple room-discovery flow give the concept a calm rhythm.",
+        "صفحه‌آرایی گرم، فاصله‌گذاری مناسب و مسیر سادهٔ شناخت اتاق‌ها، به طرح آهنگی آرام می‌دهند."
+      ],
+      "deliverables": [
+        "Website concept, responsive screens, content structure",
+        "طرح وب‌سایت، صفحه‌های سازگار با موبایل، ساختار محتوا"
+      ]
+    },
+    {
+      "slug": "flowdesk",
+      "title": "Flowdesk",
+      "faTitle": "فلو‌دسک",
+      "category": "Software",
+      "faCategory": "نرم‌افزار",
+      "color": "#d4e5f7",
+      "ink": "#17233F",
+      "tag": [
+        "A clearer view of everyday operations.",
+        "دیدی روشن‌تر از کارهای روزمره."
+      ],
+      "brief": [
+        "Explore a fictional internal work-management application that brings task status, project activity and team priorities into one view.",
+        "بررسی طرح یک اپلیکیشن داخلی فرضی برای مدیریت کار که وضعیت وظایف، فعالیت پروژه و اولویت‌های تیم را در یک نما نشان می‌دهد."
+      ],
+      "approach": [
+        "A compact navigation system, clear information hierarchy and visible task states establish an interface concept for a small operations team. The case study is a UI and workflow concept, not a deployed software product.",
+        "منوی فشرده، سلسله‌مراتب روشن معلومات و وضعیت‌های قابل‌مشاهدهٔ وظایف، طرح رابط کاربری یک تیم کوچک را می‌سازند. این مطالعه، طرح رابط و روند کاری است، نه نرم‌افزار مستقرشده."
+      ],
+      "deliverables": [
+        "Workflow outline, application interface concept, dashboard studies",
+        "طرح روند کاری، مفهوم رابط اپلیکیشن، مطالعه‌های داشبورد"
+      ]
+    },
+    {
+      "slug": "orbit",
+      "title": "Orbit",
+      "faTitle": "اوربیت",
+      "category": "Branding",
+      "faCategory": "برندسازی",
+      "color": "#c8ff55",
+      "ink": "#181d16",
+      "tag": [
+        "A new perspective on everyday energy.",
+        "نگاهی تازه به انرژی روزمره."
+      ],
+      "brief": [
+        "Develop a fictional botanical drink identity that feels energetic without relying on familiar wellness imagery.",
+        "طراحی هویت یک نوشیدنی گیاهی فرضی که بدون تصویرهای تکراری، پرانرژی به نظر برسد."
+      ],
+      "approach": [
+        "An orbital symbol, condensed typography and a sharp green palette create a flexible system for packaging and launch posters.",
+        "نماد مداری، حروف فشرده و رنگ سبز زنده، سیستمی انعطاف‌پذیر برای بسته‌بندی و پوسترهای معرفی می‌سازند."
+      ],
+      "deliverables": [
+        "Identity system, packaging concept, launch posters",
+        "سیستم هویت، طرح بسته‌بندی، پوسترهای معرفی"
+      ]
+    },
+    {
+      "slug": "form",
+      "title": "FORM / 01",
+      "faTitle": "فورم / ۰۱",
+      "category": "Graphic Design",
+      "faCategory": "طراحی گرافیک",
+      "color": "#a795ee",
+      "ink": "#261b4c",
+      "tag": [
+        "An exhibition expressed through type.",
+        "نمایشگاهی که با حروف بیان می‌شود."
+      ],
+      "brief": [
+        "Create a fictional design exhibition campaign that works as posters, a programme and wayfinding.",
+        "طراحی کمپاین یک نمایشگاه فرضی برای پوستر، برنامه و رهنمای مسیر."
+      ],
+      "approach": [
+        "Oversized letterforms and a strict modular grid create a recognisable visual language across scales.",
+        "حروف بزرگ و شبکهٔ منظم، زبان بصری قابل‌شناختی در اندازه‌های مختلف می‌سازند."
+      ],
+      "deliverables": [
+        "Poster series, editorial programme, wayfinding concept",
+        "مجموعه پوستر، برنامهٔ صفحه‌آرایی‌شده، طرح رهنمای مسیر"
+      ]
+    },
+    {
+      "slug": "daily",
+      "title": "Daily Ritual",
+      "faTitle": "رسم روزانه",
+      "category": "Social Media",
+      "faCategory": "رسانه‌های اجتماعی",
+      "color": "#efd7c5",
+      "ink": "#4f332d",
+      "tag": [
+        "Small moments. A consistent voice.",
+        "لحظه‌های کوچک، صدایی هماهنگ."
+      ],
+      "brief": [
+        "Build an illustrative social content system for a fictional coffee studio with a limited production schedule.",
+        "ساخت سیستم نمونهٔ محتوای اجتماعی برای یک استودیوی فرضی قهوه با زمان محدود تولید."
+      ],
+      "approach": [
+        "Repeatable typographic layouts and alternating educational and product stories make the system practical to maintain.",
+        "قالب‌های نوشتاری تکرارپذیر و ترکیب محتوای آموزشی و محصول، نگهداری سیستم را ساده می‌سازند."
+      ],
+      "deliverables": [
+        "Content direction, six sample tiles, story templates",
+        "جهت محتوا، شش طرح نمونه، قالب‌های استوری"
+      ]
+    },
+    {
+      "slug": "still",
+      "title": "Still / Life",
+      "faTitle": "زندگی / ساکن",
+      "category": "Photography",
+      "faCategory": "عکاسی",
+      "color": "#b7c9c2",
+      "ink": "#1f3935",
+      "tag": [
+        "Light, texture and the everyday object.",
+        "نور، بافت و اشیای روزمره."
+      ],
+      "brief": [
+        "Explore an art direction for a fictional object collection through quiet compositions and directional light.",
+        "بررسی جهت هنری یک مجموعهٔ فرضی اشیا با ترکیب‌بندی آرام و نور جهت‌دار."
+      ],
+      "approach": [
+        "Sculptural digital studies establish framing, shadow and colour references for a future photographic shoot. These are illustrations, not commissioned photographs.",
+        "مطالعه‌های تصویری دیجیتال، قاب‌بندی، سایه و رنگ را برای عکاسی آینده مشخص می‌کنند. این‌ها تصویرسازی‌اند، نه عکس‌های سفارشی."
+      ],
+      "deliverables": [
+        "Art direction, digital still-life studies, proposed shot list",
+        "جهت هنری، مطالعه‌های دیجیتال طبیعت بی‌جان، فهرست پیشنهادی نماها"
+      ]
+    },
+    {
+      "slug": "afterlight",
+      "title": "Afterlight",
+      "faTitle": "پس از روشنایی",
+      "category": "Video",
+      "faCategory": "ویدیو",
+      "color": "#ef927c",
+      "ink": "#411f31",
+      "tag": [
+        "A visual rhythm for a moving identity.",
+        "آهنگی بصری برای یک هویت متحرک."
+      ],
+      "brief": [
+        "Develop a motion treatment for a fictional cultural programme using shape, light and typography.",
+        "ساخت طرح حرکت برای یک برنامهٔ فرهنگی فرضی با شکل، نور و تایپوگرافی."
+      ],
+      "approach": [
+        "Three storyboard frames establish an opening, transition and end frame. This presentation is a treatment, not a finished client film.",
+        "سه قاب داستانی، آغاز، گذار و پایان را مشخص می‌کنند. این ارائه طرح تولید است، نه فیلم تکمیل‌شدهٔ مشتری."
+      ],
+      "deliverables": [
+        "Motion direction, storyboard, title-frame concept",
+        "جهت حرکت، استوری‌بورد، طرح عنوان"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "useful-website-brief",
+      "category": [
+        "Web",
+        "وب"
+      ],
+      "title": [
+        "What belongs in a useful website brief?",
+        "در یک بریف مفید وب‌سایت چه می‌آید؟"
+      ],
+      "summary": [
+        "Start with visitor needs, content and the next action—not a list of effects.",
+        "از نیاز بازدیدکننده، محتوا و اقدام بعدی آغاز کنید."
+      ],
+      "sections": [
+        [
+          [
+            "Name the next action",
+            "Decide what a visitor should be able to do: understand a service, compare work or send an enquiry. Give each important page a clear purpose."
+          ],
+          [
+            "Prepare the content",
+            "Gather approved service descriptions, project images and contact information. Identify missing content early so it does not become a launch surprise."
+          ],
+          [
+            "Plan for every screen",
+            "Review navigation, forms and reading order on a narrow screen. A mobile layout should preserve meaning without making people zoom."
+          ],
+          [
+            "Define a launch check",
+            "Check links, form delivery, keyboard access and language switching. Agree on who maintains content after launch."
+          ]
+        ],
+        [
+          [
+            "اقدام بعدی را مشخص کنید",
+            "تعیین کنید بازدیدکننده چه کاری انجام دهد: شناخت خدمت، دیدن نمونه‌کار یا ارسال درخواست. هر صفحهٔ مهم باید هدف روشن داشته باشد."
+          ],
+          [
+            "محتوا را آماده کنید",
+            "شرح خدمات، تصاویر تأییدشده و معلومات تماس را جمع‌آوری کنید. محتوای ناقص را زود شناسایی کنید."
+          ],
+          [
+            "برای هر صفحه‌نمایش برنامه داشته باشید",
+            "منو، فورم و ترتیب مطالعه را در موبایل بررسی کنید. کاربر نباید برای خواندن مجبور به بزرگ‌نمایی شود."
+          ],
+          [
+            "بررسی پیش از نشر را تعیین کنید",
+            "پیوندها، ارسال فورم، دسترسی با کیبورد و تغییر زبان را آزمایش کنید. مسئول نگهداری محتوا را مشخص کنید."
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "plan-a-software-tool",
+      "category": [
+        "Software",
+        "نرم‌افزار"
+      ],
+      "title": [
+        "Before you build a custom software tool.",
+        "پیش از ساخت نرم‌افزار اختصاصی."
+      ],
+      "summary": [
+        "Start with the workflow, the people using it and the smallest useful release.",
+        "از روند کاری، استفاده‌کنندگان و کوچک‌ترین نسخهٔ مفید آغاز کنید."
+      ],
+      "sections": [
+        [
+          [
+            "Map the current workflow",
+            "Describe a real task from beginning to end. Note where information is copied, decisions are delayed or people depend on separate tools."
+          ],
+          [
+            "Define the users and permissions",
+            "Identify who will use the software and what each person should be able to see or change. Agree on access needs before designing screens."
+          ],
+          [
+            "Choose the first useful release",
+            "Prioritise one workflow with a clear outcome. Separate essential features from ideas that can wait, and agree on how the first version will be tested."
+          ],
+          [
+            "Plan for data and handover",
+            "Identify required integrations, existing data and responsibilities after release. Include documentation, deployment access and future maintenance in the project discussion."
+          ]
+        ],
+        [
+          [
+            "روند فعلی را مشخص کنید",
+            "یک کار واقعی را از آغاز تا پایان توضیح دهید. جاهایی را مشخص کنید که معلومات تکرار می‌شوند، تصمیم‌ها به تأخیر می‌افتند یا افراد به ابزارهای جداگانه وابسته‌اند."
+          ],
+          [
+            "کاربران و صلاحیت‌ها را تعیین کنید",
+            "مشخص کنید چه کسانی از نرم‌افزار استفاده می‌کنند و هر فرد چه چیزی را می‌تواند ببیند یا تغییر دهد. پیش از طراحی صفحه‌ها، نیازهای دسترسی را توافق کنید."
+          ],
+          [
+            "نخستین نسخهٔ مفید را انتخاب کنید",
+            "یک روند کاری با نتیجهٔ روشن را در اولویت بگذارید. قابلیت‌های ضروری را از ایده‌های قابل‌انتظار جدا کنید و روش آزمایش نسخهٔ نخست را تعیین کنید."
+          ],
+          [
+            "برای معلومات و تحویل برنامه داشته باشید",
+            "اتصال‌های لازم، معلومات موجود و مسئولیت‌های پس از نشر را مشخص کنید. مستندات، دسترسی استقرار و نگهداری آینده را در گفتگو دربارهٔ پروژه شامل سازید."
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "identity-before-logo",
+      "category": [
+        "Branding",
+        "برندسازی"
+      ],
+      "title": [
+        "A clear identity starts before the logo.",
+        "هویت روشن، پیش از لوگو آغاز می‌شود."
+      ],
+      "summary": [
+        "Four questions that make a visual identity brief more useful.",
+        "چهار پرسش که بریف هویت بصری را مفیدتر می‌سازند."
+      ],
+      "sections": [
+        [
+          [
+            "Start with the audience",
+            "Describe who the business helps and what those people need to understand. A useful brief names a real situation rather than saying everyone is the audience."
+          ],
+          [
+            "Define the message",
+            "Write one sentence about the business and its purpose. Identify what needs to feel consistent across the logo, language and applications."
+          ],
+          [
+            "Choose practical applications",
+            "List where the identity must work: a small profile image, a sign, a proposal or packaging. Test the design in those settings before approving it."
+          ],
+          [
+            "Agree on a decision process",
+            "Choose who gives feedback and what makes a proposal successful. Consolidated feedback helps the work develop with a clear direction."
+          ]
+        ],
+        [
+          [
+            "از مخاطب آغاز کنید",
+            "مشخص کنید کسب‌وکار به چه کسانی کمک می‌کند و آن‌ها چه چیزی را باید بدانند. به‌جای این‌که همه را مخاطب بدانید، یک وضعیت واقعی را توضیح دهید."
+          ],
+          [
+            "پیام را روشن کنید",
+            "کسب‌وکار و هدف آن را در یک جمله بنویسید. مشخص کنید چه چیزی باید در لوگو، زبان و کاربردها هماهنگ باشد."
+          ],
+          [
+            "کاربردهای عملی را انتخاب کنید",
+            "محل استفادهٔ هویت را فهرست کنید: تصویر پروفایل، تابلو، پیشنهادنامه یا بسته‌بندی. طرح را پیش از تأیید در همین موقعیت‌ها آزمایش کنید."
+          ],
+          [
+            "روش تصمیم‌گیری را تعیین کنید",
+            "مشخص کنید چه کسی نظر می‌دهد و معیار موفقیت طرح چیست. نظرهای یک‌جا و روشن به پیشرفت کار کمک می‌کنند."
+          ]
+        ]
+      ]
+    },
+    {
+      "slug": "content-with-purpose",
+      "category": [
+        "Content",
+        "محتوا"
+      ],
+      "title": [
+        "Plan content people can use.",
+        "محتوایی بسازید که به کار مردم بیاید."
+      ],
+      "summary": [
+        "A simple way to connect portfolio, process and practical advice.",
+        "روشی ساده برای پیوند نمونه‌کار، روند کار و رهنمایی عملی."
+      ],
+      "sections": [
+        [
+          [
+            "Give each post a job",
+            "Choose one purpose: introduce a service, explain a decision or show a piece of work. A focused post is easier to produce and review."
+          ],
+          [
+            "Reuse the thinking",
+            "A project can become a case study, a close-up and a short explanation. Adapt each format instead of repeating the same caption everywhere."
+          ],
+          [
+            "Match the calendar to capacity",
+            "Assign design, writing, review and publishing before setting an ambitious schedule. Leave room to reply to people."
+          ],
+          [
+            "Review useful signals",
+            "Look at saves, questions and relevant enquiries alongside reach. Record what the team learned and change one thing in the next cycle."
+          ]
+        ],
+        [
+          [
+            "برای هر پست هدف تعیین کنید",
+            "یک هدف انتخاب کنید: معرفی خدمت، توضیح یک تصمیم یا نمایش کار. ساخت و بازبینی پست متمرکز آسان‌تر است."
+          ],
+          [
+            "از فکر اصلی دوباره استفاده کنید",
+            "یک پروژه می‌تواند به مطالعهٔ موردی، نمای نزدیک و توضیح کوتاه تبدیل شود. هر قالب را متناسب بسازید."
+          ],
+          [
+            "تقویم را با ظرفیت هماهنگ کنید",
+            "پیش از تعیین برنامه، مسئول طراحی، نوشتن، بازبینی و نشر را مشخص کنید. برای پاسخ‌دادن هم وقت بگذارید."
+          ],
+          [
+            "نشانه‌های مفید را بررسی کنید",
+            "ذخیره‌ها، پرسش‌ها و درخواست‌های مرتبط را در کنار میزان دسترسی ببینید. آموخته‌ها را ثبت و در دور بعد یک مورد را اصلاح کنید."
+          ]
+        ]
+      ]
+    }
+  ],
+  "agency": {
+    "focus": [
+      "Websites and software are our main focus. Branding and graphic design bring a consistent visual identity to the digital products we create.",
+      "تمرکز اصلی ما توسعهٔ وب‌سایت و نرم‌افزار است. برندسازی و طراحی گرافیک، هویت بصری هماهنگی به محصولات دیجیتال ما می‌دهند."
+    ],
+    "intro": [
+      "Nova Creatives develops websites, web applications and software tools for businesses and organisations. Alongside development, we offer branding and graphic design to connect the product, interface and visual identity.",
+      "نووا کریتیوز برای کسب‌وکارها و سازمان‌ها وب‌سایت، اپلیکیشن تحت وب و ابزارهای نرم‌افزاری توسعه می‌دهد. در کنار توسعه، خدمات برندسازی و طراحی گرافیک ارائه می‌کنیم تا محصول، رابط کاربری و هویت بصری هماهنگ باشند."
+    ],
+    "audience": [
+      "We communicate in Dari and English for businesses and organisations in Afghanistan, with an approach that can also support international collaboration.",
+      "برای کسب‌وکارها و سازمان‌ها در افغانستان به دری و انگلیسی ارتباط می‌گیریم و رویکردی داریم که همکاری بین‌المللی را نیز پشتیبانی کند."
+    ],
+    "socialBio": [
+      "Websites. Software. Creative design.",
+      "وب‌سایت. نرم‌افزار. طراحی خلاق."
+    ],
+    "socialPlatforms": [
+      "Instagram",
+      "Facebook"
+    ],
+    "languagePolicy": [
+      "Dari first for Afghanistan-focused communication, with concise English where useful.",
+      "برای ارتباط با مخاطبان افغانستان، دری در اولویت است و در صورت نیاز انگلیسی کوتاه نیز همراه می‌شود."
+    ],
+    "hero": [
+      "Websites and software built around your business. Supported by thoughtful design.",
+      "وب‌سایت و نرم‌افزار متناسب با کسب‌وکار شما؛ همراه با طراحی سنجیده."
+    ],
+    "headline": [
+      "Ideas into<br><em>digital</em> products.",
+      "از ایده تا<br>محصول <em>دیجیتال.</em>"
+    ]
+  }
+}
